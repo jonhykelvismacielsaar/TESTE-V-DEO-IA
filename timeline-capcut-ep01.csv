@@ -1,0 +1,21 @@
+seq,clip,tipo,duracao_prompt_s,duracao_final_s,entra_em,termina_em,arquivo_imagem,resumo
+1,F01,Cena,5,5,00:00.0,00:05.0,episodios/EP01/img/small-seq01-f01-rua.png,Nara diante da Casa Estrela na chuva
+2,T01,Transicao,5,1,00:05.0,00:06.0,episodios/EP01/img/small-seq02-t01-moeda-macro.png,Moeda girando em macro -> flash dourado
+3,F02,Cena,5,5,00:06.0,00:11.0,episodios/EP01/img/small-seq03-f02-salao.png,Revelacao do salao magico
+4,T02,Transicao,5,1,00:11.0,00:12.0,episodios/EP01/img/small-seq04-t02-po-dourado.png,Redemoinho de po dourado e fichas
+5,F03,Cena,5,5,00:12.0,00:17.0,episodios/EP01/img/small-seq05-f03-luan.png,Luan aparece atras de Nara
+6,T03,Transicao,5,1,00:17.0,00:18.0,episodios/EP01/img/small-seq06-t03-vespera.png,Palito de fosforo acendendo
+7,F04,Cena,5,5,00:18.0,00:23.0,episodios/EP01/img/small-seq07-f04-regra.png,A regra da moeda sobre a mesa
+8,T04,Transicao,5,1,00:23.0,00:24.0,episodios/EP01/img/small-seq08-t04-moeda-mesa.png,Moeda girando na mesa de veludo
+9,F05,Cena,5,5,00:24.0,00:29.0,episodios/EP01/img/small-seq09-f05-aposta.png,Aposta da primeira memoria + chuva de ouro
+10,T05,Transicao,5,1,00:29.0,00:30.0,episodios/EP01/img/small-seq10-t05-chuva-ouro.png,Chuva de moedas caindo no escuro
+11,F06,Cena,5,5,00:30.0,00:35.0,episodios/EP01/img/small-seq11-f06-preco.png,Nara ve o rosto do pai apagado no celular
+12,T06,Transicao,5,1,00:35.0,00:36.0,episodios/EP01/img/small-seq12-t06-taca-ouro.png,Taca enchendo de ouro liquido
+13,F07,Cena,5,5,00:36.0,00:41.0,episodios/EP01/img/small-seq13-f07-queda.png,Nara rica e vazia no trono de veludo
+14,T07,Transicao,5,1,00:41.0,00:42.0,episodios/EP01/img/small-seq14-t07-cacos.png,Cacos de espelho voando pela camera
+15,F08,Cena,5,5,00:42.0,00:47.0,episodios/EP01/img/small-seq15-f08-espelho.png,O reflexo quebrado e os fantasmas
+16,T08,Transicao,5,1,00:47.0,00:48.0,episodios/EP01/img/small-seq16-t08-rachadura.png,Espelho rachado vazando luz dourada
+17,F09,Cena,5,5,00:48.0,00:53.0,episodios/EP01/img/small-seq17-f09-verdade.png,Luan e Nara testa a testa
+18,T09,Transicao,5,1,00:53.0,00:54.0,episodios/EP01/img/small-seq18-t09-olhos.png,Olhos de Luan fechando -> moeda
+19,F10,Cena,5,5,00:54.0,00:59.0,episodios/EP01/img/small-seq19-f10-cliffhanger.png,A moeda com o rosto de Luan
+20,T10,Transicao,5,1,00:59.0,01:00.0,episodios/EP01/img/small-seq20-t10-final.png,Moeda cai e tomba no marmore negro (cartela)
